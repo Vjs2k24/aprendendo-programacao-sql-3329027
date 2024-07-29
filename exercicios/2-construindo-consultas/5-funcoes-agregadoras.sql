@@ -9,4 +9,5 @@ AVG(Total) as media_de_compras
 FROM
 invoices
 WHERE
-BillingCountry = 'Germany';
+BillingCountry = 'Brazil'
+;
